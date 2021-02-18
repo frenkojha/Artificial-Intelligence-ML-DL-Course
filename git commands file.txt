@@ -1,0 +1,16 @@
+
+   For creating first time 
+    
+ 1.  git init
+ 2.  git remote add origin https://github.com/frenkojha/Sing.git     // this is my remote address your address is differ please check once 
+ 3.  git add .
+ 4.  git commit -m "Enter your comment here"
+ 5.  git push -u origin master
+ 
+
+   For update and always help while pushing new files 
+
+ 1. git status
+ 2. git add .
+ 3. git commit -m "Enter your comment here"
+ 4. git push -u origin master
