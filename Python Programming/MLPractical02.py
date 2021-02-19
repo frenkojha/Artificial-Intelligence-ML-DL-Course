@@ -1,3 +1,4 @@
+# Read data from the csv file in python
 import numpy
 
 filename = 'indians-diabetes.data.csv'
